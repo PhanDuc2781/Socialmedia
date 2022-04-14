@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+        android:iconTint="#2196F3"
+        android:icon="@drawable/ic_baseline_chat_24"/>
+    <item
+        android:id="@+id/userChat"
+        android:title="Danh bạ"
+        android:iconTint="#9C27B0"
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"/>
+
+
+</menu>
